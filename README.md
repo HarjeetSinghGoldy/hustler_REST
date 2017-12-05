@@ -13,4 +13,4 @@ Step:4 Browse to http://localhost:3000 to access the application.<br />
 # Flow of the Applcation.<br />
 
 1) When we run node server.js then it read all the file from the top and store depandanies in golbal variables and Express in app variable.<br />
-2) Using 'express-jwt' package and config.json "secret": "Sylvester tech task" string to build unique Hash code for authentication you can check it validation https://jwt.io/ .<br />
+2) Using 'express-jwt' package and config.json "secret": "Hustler Collective task" string to build unique Hash code for authentication you can check it validation https://jwt.io/ .<br />
